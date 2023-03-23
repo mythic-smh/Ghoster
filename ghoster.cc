@@ -35,5 +35,7 @@ endl;
     cout << "";
     }
 }
+	cout << "Now please tpye in which character you would like to play as." << endl;
+	cout << "Here are your choices: 
 return 0;
 }
