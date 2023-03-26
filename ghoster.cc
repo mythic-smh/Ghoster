@@ -26,6 +26,10 @@ userName << " ?" << endl;
 }
     cout << "Now we will get on how to move: W is for moving forward, A is for moving to the left, S if for moving backwards and finally D is for moving to the right" <<
 endl;
+    
+    cout << "Please type in which character you would like to play as." << endl;
+    cout << "Here are your choices:" << endl;
+    cout << "" << endl;
     cout << "Please type \"Start\" to start the program." << endl;
     string Correct;
     cin >> Correct;
@@ -35,8 +39,5 @@ endl;
     cout << "";
     }
 }
-    cout << "Now please type in which character you would like to play as." << endl;
-    cout << "Here are your choices:" << endl;
-    cout << "If you would like to play 
 	return 0;
 }
