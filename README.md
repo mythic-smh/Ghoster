@@ -1,4 +1,4 @@
-# Ghoster how to play.
+# How to play Ghoster!
 
 When you first start the game you will have to write your name and for the basics:
 
