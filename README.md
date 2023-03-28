@@ -1,7 +1,8 @@
-# ! GAME IS STILL IN DEVELOPMENT !
+# Read this before playing ↓
 
+This game is not finished and not so close to being finished so if you try toplay it you won't get so far.
 
-This game is still in development so it is currently not available right now but i will add notes to this read me.
+This game is made all by me in c++ while i try to learn!
 
 # How to play
 
