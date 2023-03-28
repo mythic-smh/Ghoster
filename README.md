@@ -30,6 +30,12 @@ Here is how you move:
 K is to move up, L is to move right, J is to move down/backwards and finallyH is to move to the left.
 # Characters
 
-You will now see the characters and their details;
+Player 1 will be the attacker and Player 2 will be the defender who has to escape
 
-Characters: 
+You will now see the characters and their details for Player 1.
+
+Characters:
+
+Now for Player 2
+
+Characters:
