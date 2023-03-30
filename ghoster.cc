@@ -6,27 +6,38 @@ int main() {
 while (true) {
     cout << "Welcome to ~Ghoster~"
 << endl;
-    cout << "Please type your name."
+    cout << "Please type player 1s name."
     << endl;
-    string userName;
-    cin >> userName;
+    string playerOne;
+    cin >> playerOne;
     cout << "So your name is " <<
-userName << " ?" << endl;
+playerOne << " ?" << endl;
     cout << "If this is correct please type \"Yes\""
 << endl;
-    string Answer;
-    cin >> Answer;
-    if (Answer == "Yes" || Answer == 
+    string Answer1;
+    cin >> Answer1;
+    if (Answer1 == "Yes" || Answer1 == 
 "yes") {
-    cout << "Hello " << userName <<
+    cout << "Welcome,  " << playerOne <<
 " I hope you enjoy!" << endl;
     } else {
     cout << "Syntax error please restart." << endl;
     continue;
-}
-    cout << "Now we will get on how to move: W is for moving forward, A is for moving to the left, S if for moving backwards and finally D is for moving to the right" <<
-endl;
-    
+} 
+    cout << "Now please type in player 2s name" << endl;
+    string playerTwo;
+    cin >> playerTwo;
+    cout << "So your name is " << playerTwo << " ?" << endl;
+    cout << "If this is correct please type \"Yes\"" << endl;
+    string answerTwo;
+    cin >> answerTwo;
+    if (answerTwo == "Yes" || answerTwo == "two") {
+        cout << "Welcome , " << playerTwo <<
+        " I hope you enjoy!" << endl;
+    } else {
+        cout << "Syntax error pleaes restart." << endl;
+        continue;
+    } 
     cout << "Please type in which character you would like to play as." << endl;
     cout << "Here are your choices:" << endl;
     cout << "" << endl;
