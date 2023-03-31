@@ -35,7 +35,7 @@ playerOne << " ?" << endl;
         cout << "Welcome, " << playerTwo <<
         " I hope you enjoy!" << endl;
     } else {
-        cout << "Syntax error pleaes restart." << endl;
+        cout << "Syntax error please restart." << endl;
         continue;
     } 
     cout << "Please type in which character you would like to play as." << endl;
