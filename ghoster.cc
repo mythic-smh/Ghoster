@@ -31,8 +31,8 @@ playerOne << " ?" << endl;
     cout << "If this is correct please type \"Yes\"" << endl;
     string answerTwo;
     cin >> answerTwo;
-    if (answerTwo == "Yes" || answerTwo == "two") {
-        cout << "Welcome , " << playerTwo <<
+    if (answerTwo == "Yes" || answerTwo == "yes") {
+        cout << "Welcome, " << playerTwo <<
         " I hope you enjoy!" << endl;
     } else {
         cout << "Syntax error pleaes restart." << endl;
